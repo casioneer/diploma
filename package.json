@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "dependencies": {
-    "concurrently": "^7.6.0"
+    "concurrently": "^7.6.0",
+    "react-icons": "^5.0.1"
   },
-  "devDependencies": {},
   "scripts": {
     "start": "node server",
     "server": "cd server && nodemon",
