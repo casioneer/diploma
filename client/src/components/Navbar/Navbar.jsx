@@ -31,7 +31,7 @@ export default function Navbar() {
                         </li>
                     </ul>
                     <div>
-                        <AiOutlineMenu size={25} />
+                        <AiOutlineMenu size={26} />
                     </div>
                 </div>
             </div>
